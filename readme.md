@@ -1,9 +1,4 @@
-~~~It's all ABOUT @botechiaeri 😜~~~
+# It's all ABOUT @botechiaeri github code😜
 
 
-## Hello Word! I'm @botechiaEri
-<div>
- <img src="http://github.stats.vercel.app/api/api?username=botechiaEri=true&theme=dracula&include_all_commits-true&count_private=true" height="100cm"/>
-
-</div>
--  Actually learning **NODE.JS** apply in MVC PROJECT STRUCTURE  
+![BotechiaEri's GitHub stats](https://github-readme-stats.vercel.app/api?username=botechiaeri&theme=radical&show_icons=true&count_private=true)
